@@ -18,3 +18,15 @@ Desarrollar un  CRM para la empresa X, con la metodologia Scrum y las herramient
 - Framework
 - IDE
 - CVS
+
+## ARIQUITECTURA
+La arquitectura del proyecto será 
+
+*** 
+
+## METODOLOGÍA 
+La metodología para el desarrollo de aplicación será SCRUM, en 4 sprints
+- [ ] Sprint 1
+- [ ] Sprint 2
+- [ ] Sprint 3
+- [ ] Sprint 4
